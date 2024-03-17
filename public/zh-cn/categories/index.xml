@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - 祭酒blog</title>
+        <link>http://localhost:63690/zh-cn/categories/</link>
+        <description>Categories - 分类 - 祭酒blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>10791894@qq.com (祭酒)</managingEditor>
+            <webMaster>10791894@qq.com (祭酒)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:63690/zh-cn/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
