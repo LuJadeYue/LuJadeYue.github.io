@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>辣椒油blog</title>
-        <link>http://localhost:49907/</link>
+        <link>http://localhost:54916/</link>
         <description>辣椒油的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>10791894@qq.com (辣椒油)</managingEditor>
-            <webMaster>10791894@qq.com (辣椒油)</webMaster><copyright>hello</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:49907/index.xml" rel="self" type="application/rss+xml" />
+            <webMaster>10791894@qq.com (辣椒油)</webMaster><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:54916/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>人月神话读书笔记</title>
-    <link>http://localhost:49907/posts/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+    <link>http://localhost:54916/posts/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>辣椒油</author>
-    <guid>http://localhost:49907/posts/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+    <guid>http://localhost:54916/posts/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
     <description><![CDATA[一、书名和Brooks 《人月神话》是由Fred Brooks所著，他是一位让人非常尊敬的计算机科学家，也是软件工程领域的先驱。他在60年代（在]]></description>
 </item>
 </channel>
