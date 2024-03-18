@@ -46,7 +46,9 @@ gen/
 # agent build ignore
 /agent/
 
-#hugo
+# hugo
 public/
-
+./public
+public
+public/*
 
